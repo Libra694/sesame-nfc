@@ -1,0 +1,5 @@
+{
+	"token": "set your token",
+	"device_id": "set your sesame id",
+	"idm_list": ["set idm of your suica",  "(option) set additional idm"]
+}
